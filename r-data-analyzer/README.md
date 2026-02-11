@@ -7,7 +7,7 @@ Project Overview
 
 The MindWink Mood Analyzer is an R data analysis program that studies how daily actions affect student mood. The program loads a dataset from a CSV file, calculates mood changes before and after activities, classifies emotional trends, and generates visual charts.
 
-This project demonstrates real-world data analysis using R and fulfills the requirements of the CSE 310 R programming module.
+This project demonstrates real-world data analysis using R
 
 
 Project Objectives
@@ -200,9 +200,8 @@ Thursday | Implement case_when() classification + loop analysis per action (2 hr
 Friday | Debug and test script end-to-end, ensure outputs display correctly (1 hr) | Final polishing: check rubric, verify all requirements, final run recording (1 hr)
 Saturday | Write short summary of results, organize repo, backup project (1 hr) | Submit project + backup files + final review (1 hr)
 
-Video Demo: 
-
-video/
+## Video Demo
+[Watch the demo video](https://youtu.be/RourBmkpAq0)
 
 Conclusion
 
