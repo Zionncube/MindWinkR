@@ -191,8 +191,8 @@ Total time spent: 20+ hours over 2 weeks.
 
 Sprint Hours Details
 
-First Week of Sprint | Second Week of Sprint
---- | ---
+Day | First Week of Sprint | Second Week of Sprint
+--- | --- | ---
 Monday | Setup project folder in VSCode, install R + extensions, review module requirements (2 hrs) | Refactor code for readability, improve functions and comments (2 hrs)
 Tuesday | Create or select CSV dataset, inspect columns, plan analysis questions (2 hrs) | Add error handling + input validation, test with missing values (2 hrs)
 Wednesday | Write R code to load CSV into dataframe, clean data, compute mood_change (2 hrs) | Create visualizations (boxplot/bar chart), save images to output folder (2 hrs)
