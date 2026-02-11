@@ -203,6 +203,18 @@ Saturday | Write short summary of results, organize repo, backup project (1 hr) 
 ## Video Demo
 [Watch the demo video](https://youtu.be/RourBmkpAq0)
 
+
+What learning strategies worked well in this module and what strategies (or lack of strategy) did not work well? How can you improve in the next module?
+
+During this R module, several learning strategies worked well for me. One strategy that helped a lot was learning by doing. Instead of only reading or watching videos, I practiced by building my own R project step by step. Writing functions, testing my code, and fixing errors helped me understand how R works in a practical way. Breaking the project into smaller parts (loading data, cleaning it, analyzing it, and creating charts) made the work feel manageable and helped me stay organized.
+
+Another strategy that worked well was experimenting with the code. I tried changing values, running sections of the script multiple times, and observing how the output changed. This hands-on approach improved my confidence and helped me understand concepts like data frames, loops, and functions more clearly.
+
+However, some strategies did not work as well. At times, I tried to move too quickly without fully understanding error messages or the structure of the project. This caused confusion and slowed me down later. I also realized that I did not always plan my workflow ahead of time. Jumping straight into coding without a clear plan sometimes made debugging harder.
+
+For the next module, I can improve by spending more time planning before coding. I want to outline my steps, understand the requirements clearly, and review key concepts before starting. I will also focus on reading error messages more carefully and documenting my code with comments as I go. In addition, I plan to practice consistently instead of leaving too much work for one session. By improving my planning, pacing, and reflection, I can build stronger programming skills and work more efficiently in the next module.
+
+
 Conclusion
 
 The MindWink Mood Analyzer fulfills the requirements of the R module by performing meaningful data analysis and generating clear visual outputs. It demonstrates how R can be applied to study emotional trends and behavioral patterns in a real-world context.
